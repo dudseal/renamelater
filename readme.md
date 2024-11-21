@@ -19,4 +19,6 @@ git checkout -b branch_name #creates a new branch and navigates to it
 git push -u origin branch_name #pushes the branch to the remote (the cloud synced repo on github)
 
 git checkout branch_name #moves you to the existing branch named branch_name
+
+#After you finish your branch, create a pull request in github
 ```
