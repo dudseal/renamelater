@@ -3,6 +3,7 @@
 ### Notes:
 * This file is written in markdown, which is a plain text editor with basic functions like headings.
 * Once you have GitLens installed, you can click on the GitLens tab when your terminal is open (it's next to the Terminal tab)
+wet like water
 
 ### Git Commands:
 
